@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="ingrese_la_clave">Ingrese la clave</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="boton_1">BOTON 1</string>
+    <string name="boton_2">BOTON 2</string>
+    <string name="boton_3">Boton 3</string>
+    <string name="boton_4">Boton 4</string>
+    <string name="boton_5">Boton 5</string>
+    <string name="boton_6">Boton 6</string>
+    <string name="boton_7">Boton 7</string>
+</resources>
